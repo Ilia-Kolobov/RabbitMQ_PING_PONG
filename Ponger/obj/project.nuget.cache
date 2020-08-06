@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gLE9gNQ2gPKYgRBVSA4xUH2+hHnqkCmerWGRQTsfwDRin8/3EcCMSxO/97w8nAH8ZW0Rl1UCqSx+ZfXjSWnVWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Илья\\Documents\\bsa_ping_pong\\Ponger\\Ponger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Илья\\.nuget\\packages\\rabbitmq.client\\6.1.0\\rabbitmq.client.6.1.0.nupkg.sha512",
+    "C:\\Users\\Илья\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Илья\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
